@@ -51,4 +51,12 @@ Se tiver ideias, sugestões ou encontrar algo que possa ser melhorado, fique à 
 
 ![image](https://github.com/user-attachments/assets/c5437367-5b5a-4338-9b00-c284df545d83)
 
+Links para entrar nos agentes criados: 
+
+https://copilotstudio.microsoft.com/environments/Default-da49a844-e2e3-40af-86a6-c3819d704f49/bots/e7a5d256-aa03-f011-bae3-0022482ff924/overview
+
+https://copilotstudio.microsoft.com/environments/255515e5-c823-ed66-b9c0-0b45a468e0ee/bots/33473fbc-ac03-f011-bae3-6045bd384c87/overview
+
+
+
 
